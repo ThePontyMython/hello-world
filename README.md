@@ -1,3 +1,4 @@
 # hello-world
 Just a test - really.
-The conflicting line.
+
+The old line.
